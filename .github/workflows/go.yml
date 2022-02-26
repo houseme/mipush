@@ -1,4 +1,4 @@
-name: MiPush-Go
+name: MiPush-Go-Cli
 
 on:
   push:
